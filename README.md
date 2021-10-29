@@ -27,6 +27,8 @@ Part2
   ### Installation:
       It is run in the command line with "npm start watch"
 
+![diagram](./assets/images/Store.png) 
+
   <a name='usage'></a>
   ### Usage: 
       Backend of a store
@@ -34,7 +36,7 @@ Part2
 ![insomnia](./assets/images/insomnia.gif) 
 
 
-  ![launch](./assets/images/getting_started.gif) 
+![launch](./assets/images/getting_started.gif) 
 
 
 
